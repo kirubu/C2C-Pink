@@ -1,0 +1,9 @@
+operators
+-Arithmetic Operator
+-Relational Operator
+-Logical Operator
+-Bitwise Operator
+
+Assignment Operator
+unary oper or Incerement/Decrement Operator
+Conditional operator or ternary
